@@ -1,0 +1,5 @@
+package singletonDesign;
+
+public class SingleObjectDemo {
+
+}

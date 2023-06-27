@@ -1,0 +1,16 @@
+package fileshandling;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class Task {
+
+	public static void main(String[] args) throws IOException {
+		FileWriter fw=new FileWriter("newe.txt");
+		fw.write("10,20");
+		fw.close();
+		System.out.println("write success");
+
+	}
+
+}

@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="inheritance.Employee"><rhs name\="inheritance.Programmer"/></lhs><lhs name\="inheritance.Programmer"><rhs name\="inheritance.Programmer"/></lhs><lhs name\="inheritance.HDFC"><rhs name\="inheritance.HDFCMumbai"/></lhs><lhs name\="inheritance.Bank"><rhs name\="inheritance.HDFCMumbai"/></lhs><lhs name\="inheritance.HDFCMumbai"><rhs name\="inheritance.HDFCMumbai"/></lhs><lhs name\="abstractTast.Shape"><rhs name\="abstractTast.Rectangle"/></lhs><lhs name\="abstractTast.Rectangle"><rhs name\="abstractTast.Rectangle"/></lhs><lhs name\="interfaceex.Bill"><rhs name\="interfaceex.EBill"/><rhs name\="interfaceex.WBill"/></lhs><lhs name\="interfaceex.EBill"><rhs name\="interfaceex.EBill"/></lhs><lhs name\="interfaceex.WBill"><rhs name\="interfaceex.WBill"/></lhs><lhs name\="java.lang.Thread"><rhs name\="threadex.FirstThread"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="threadex.FirstThread"/></lhs><lhs name\="threadex.FirstThread"><rhs name\="threadex.FirstThread"/></lhs><lhs name\="lambadaexp.Drawable"><rhs name\="lambadaexp.DrawMain"/></lhs><lhs name\="lambadaexp.DrawMain"><rhs name\="lambadaexp.DrawMain"/></lhs><lhs name\="lambadaexp.DemoMethodRef"><rhs name\="lambadaexp.DemoMethodRef"/></lhs></history>
+content_assist_number_of_computers=22
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

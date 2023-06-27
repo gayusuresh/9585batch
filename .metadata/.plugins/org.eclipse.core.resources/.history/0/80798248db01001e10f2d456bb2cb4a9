@@ -1,0 +1,10 @@
+package typecasting;
+
+public class DemoEx 
+{
+	public static void display()
+	{
+		System.out.println("hai");
+	}
+
+}

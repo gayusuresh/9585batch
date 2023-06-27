@@ -1,0 +1,18 @@
+package lambadaexp;
+
+public class DrawMain 
+{
+public static void main(String[] args) {
+		Drawable d=() ->
+		{
+			System.out.println("hai");
+		};
+		d.draw();
+	}
+
+}
+//public void draw()
+//{
+	
+//	Sysout("hai";)
+//}

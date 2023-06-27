@@ -1,0 +1,14 @@
+package lambadaexp;
+
+public class CubeMain {
+
+	public static void main(String[] args) {
+		Cube c=(int x)->
+		{
+			
+			return x*x*x;
+		};
+		System.out.println(c.cube(33));
+	}
+
+}

@@ -1,0 +1,19 @@
+package lambadaexp;
+
+import java.util.Arrays;
+
+public class ArbitaryExample 
+{
+	
+
+	public static void main(String[] args) 
+	{
+		String word[]= {"tamil","english","java","python"};
+		
+			Arrays.sort(word);
+			System.out.println(Arrays.toString(word));
+		
+
+	}
+
+}

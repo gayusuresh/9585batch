@@ -1,0 +1,12 @@
+package lambadaexp;
+
+public class DemoMethodRef
+{
+
+	public static void main(String[] args) {
+		Demo d=()->System.out.println("hai");
+		d.display();
+
+	}
+
+}

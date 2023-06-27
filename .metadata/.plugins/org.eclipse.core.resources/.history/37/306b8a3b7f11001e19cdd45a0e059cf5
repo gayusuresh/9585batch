@@ -1,0 +1,5 @@
+package incrementdesign;
+
+public interface Chain {
+
+}
